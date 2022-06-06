@@ -1,0 +1,9 @@
+.list_item-container {
+    display: flex;
+    place-content: center;
+    list-style: none;
+}
+
+.list_item-through {
+    text-decoration: line-through;
+}
